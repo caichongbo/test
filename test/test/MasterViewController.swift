@@ -3,8 +3,7 @@
 //  test
 //
 //  Created by 蔡崇博 on 15/5/12.
-//  Copyright (c) 2015年 蔡崇博. All rights reserved.
-//
+//  Copyright (c) 2015年 蔡崇博. //
 
 import UIKit
 
